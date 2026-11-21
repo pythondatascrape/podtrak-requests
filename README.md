@@ -1,5 +1,5 @@
-# podtrak-requests
+# Requests
 
-Records requests made to podtrak, queues them one run at a time, and keeps each one's updates and run log.
+This extension records requests for work in podtrak: the request, its queue, its updates and its run log.
 
-Releases only. Add a release package to podtrak with `podtrak ext add <file>.podtrakext`.
+Releases only. It ships with podtrak as a standard extension; podtrak's setup offers it.
